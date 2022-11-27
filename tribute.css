@@ -2,4 +2,13 @@
     max-width: 500px;
     height: 600px;
     position: relative;
+
+}
+
+
+#main{
+ background-color: whitesmoke;
+}
+#title{
+    font-family: 'Courier New', Courier, monospace;
 }
